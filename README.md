@@ -17,7 +17,7 @@ Working:
 - calculator logic works
 
 Still in progress:
-- keyboard numpad to display
+- adding specialty keys 
 
 
 ## Controls
