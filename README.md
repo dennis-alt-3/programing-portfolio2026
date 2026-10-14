@@ -9,24 +9,24 @@
 
 
 ## Overview
-[An OOP Calc that can do basic calculator functions]
+An OOP Calc that can do basic calculator functions
 
 ## Current Status
 Working:
-- [on button press, displays numbers ]
-- [calculator logic works]
+- on button press, displays numbers 
+- calculator logic works
 
 Still in progress:
-- [keyboard numpad to display]
+- keyboard numpad to display
 
 
 ## Controls
 Mouse:
-[when the buttons are clicked it, it displays them and when oprator buttons, then equales is pressed it perfoms the calclution.]
+When the buttons are clicked, it displays them, and when operator buttons and then equals are pressed, it performs the calculation.
 
 Keyboard:
-[num pad 1 works, all other numbers will be added]
+[Num pad 1 works; all other numbers will be added]
 
 
 ## Next Step
-[adding more keyboard function.]
+[Adding more keyboard functions.]
