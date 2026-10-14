@@ -25,8 +25,8 @@ Mouse:
 When the buttons are clicked, it displays them, and when operator buttons and then equals are pressed, it performs the calculation.
 
 Keyboard:
-[Num pad 1 works; all other numbers will be added]
+The numpad works, and so do the operators.
 
 
 ## Next Step
-[Adding more keyboard functions.]
+Adding a specialty 
